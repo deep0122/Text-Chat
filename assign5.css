@@ -1,0 +1,46 @@
+body{
+    margin: auto;
+    padding-top: 120px;
+    padding-left: 200px;
+}
+
+div{
+    float: left;
+    width: 25%;
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+ul{
+    margin-left: 80px;
+}
+
+li{
+    margin-top: 2px;
+}
+
+h3{
+    margin-left: 110px;
+}
+
+h2{
+    padding-left: 350px;
+}
+
+input{
+    display: inline-block;
+    float: right;
+    border: solid thin gray;
+}
+
+textarea{
+    border: solid thin gray;
+    width: 264px;
+    height: 124px;
+}
